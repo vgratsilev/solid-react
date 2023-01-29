@@ -1,4 +1,6 @@
-## Single responsibility
+## Single responsibility principle
+
+Every class, module, or function in a program should have one responsibility/purpose in a program.
 
 * 1 class = 1 task
 * 1 entity = 1 task

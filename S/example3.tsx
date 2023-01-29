@@ -1,8 +1,8 @@
 /**
- * Single Responsibility.
+ * Single Responsibility principle.
  * Class should do his own tasks.
  *
- * Here we split requisites to foreign and russians.
+ * Here we split requisites to foreign and russians, extracted create and update logic.
  */
 
 interface RequisitesProps {

@@ -1,5 +1,5 @@
 /**
- * Single Responsibility.
+ * Single Responsibility principle.
  * Class should do his own tasks.
  *
  * Here we extract methods from single User class.

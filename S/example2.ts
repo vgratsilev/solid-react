@@ -1,5 +1,5 @@
 /**
- * Single Responsibility.
+ * Single Responsibility principle.
  * Class should do his own tasks.
  *
  * Here we split requests to different classes.
